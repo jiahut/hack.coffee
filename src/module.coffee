@@ -1,4 +1,6 @@
-class Module
+module.exports = class Module
+  moduleKeywords = ['included', 'extended']
+
   @include: (obj) ->
     throw new Error('include(obj) requires obj') unless obj
     for key, value of obj when key not in moduleKeywords
