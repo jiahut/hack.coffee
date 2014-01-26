@@ -1,6 +1,13 @@
 
 ### introduce
-    coffee script meta-programing
+
+coffee script meta-programing
+
+### install
+  
+    npm install hack.coffee -g 
 
 ### usage
-    view test/
+
+    var hack = require("hack.coffee") 
+

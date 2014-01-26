@@ -1,0 +1,22 @@
+{
+  "name": "hack.coffee",
+  "version": "0.0.3",
+  "description": "coffee script meta-programing",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiahut/hack.coffee.git"
+  },
+  "keywords": [
+    "coffee"
+  ],
+  "author": "jiahut@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiahut/hack.coffee/issues"
+  },
+  "homepage": "https://github.com/jiahut/hack.coffee"
+}
